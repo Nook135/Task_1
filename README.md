@@ -1,3 +1,3 @@
-# Task_1
-# Task_1
-# Task_1
+```bash
+mvn clean test
+mvn jacoco:report

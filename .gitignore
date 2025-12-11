@@ -1,0 +1,12 @@
+# Build artifacts
+target/
+*.class
+jacoco.exec
+
+# IDE files
+.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
